@@ -3,8 +3,8 @@ name: pitch request
 about: A workflow for pitch event
 title:  "Pitch stand by mm/dd"
 labels: 'ToDo'
-projects: '(your_id)/my-todo'
-assignees: '(your_id)'
+projects: 'm0nyax/ToDo'
+assignees: 'm0nyax'
 ---
 - [ ] Request form
 - [ ] Fix title
